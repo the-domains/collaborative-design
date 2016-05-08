@@ -1,7 +1,7 @@
-name: collaborative design
+name: bhaumik modi
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.7720439166296273
+typography_spectrum: 0.37888
 title: collaborative design
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#dad8ed'
     - '#4a4a70'
     - '#aeabc0'
-  brandStrength: 0.125
-  lightness: 0.7315305415540934
-  saturation: 0.5931777262594551
-  rhythmicContrast: 0.75
+  brandStrength: 0.8125
+  lightness: 0.3125
+  saturation: 0.875
+  rhythmicContrast: 0
 purpose: []
