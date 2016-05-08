@@ -2,6 +2,7 @@ name: collaborative design
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.7720439166296273
+title: code
 cta:
   domain: null
   bucket: null
