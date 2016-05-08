@@ -1,29 +1,18 @@
-name: bhaumik modi
-favicon: null
-layout_spectrum: 0.32056
-typography_spectrum: 0.37888
-title: collaborative design
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#000000'
-    - '#ffffff'
-    - '#dad8ed'
-    - '#4a4a70'
-    - '#aeabc0'
+    - '#0F1417'
+    - '#040809'
+    - '#1D2528'
+    - '#2B3336'
   brandStrength: 0.1875
   lightness: 0.625
-  saturation: 0.5625
   rhythmicContrast: 0
+  saturation: 0.5625
+cta: {}
+layout_spectrum: 0.404279
+name: bhaumik modi
+opengraph: {}
 purpose: []
+typography_spectrum: 0.37888
