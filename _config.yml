@@ -1,0 +1,28 @@
+name: collaborative design
+favicon: null
+layout_spectrum: 0.6272797766141593
+typography_spectrum: 0.7720439166296273
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9400315086822957
+  lightness: 0.7315305415540934
+  saturation: 0.5931777262594551
+  rhythmicContrast: 0.05934588587842882
+purpose: []
