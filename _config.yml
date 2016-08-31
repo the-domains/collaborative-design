@@ -1,4 +1,4 @@
-name: bhaumik modi
+cta: {}
 opengraph: {}
 collections:
   - index:
@@ -13,18 +13,18 @@ collections:
       format: rss
       number: 10
 purpose: []
-typography_spectrum: 0.394144
+typography_spectrum: 0.4659574
 color:
   saturation: 0.1978723
-  brandStrength: 0.2489362
-  lightness: 0.625
+  brandStrength: 0.7255319
+  lightness: 0.7787234
   brandColors:
     - '#FFFFFF'
-    - '#4D4D4D'
-    - '#1F1A17'
-    - '#AEACAB'
-    - '#D9251C'
-  rhythmicContrast: 0.6553192
-layout_spectrum: 0.404279
-cta: {}
+    - '#565656'
+    - '#A2A2A2'
+    - '#D02D2B'
+    - '#450401'
+  rhythmicContrast: 0.6276596
+layout_spectrum: 0.2553191
 analytics: {}
+name: bhaumik modi
