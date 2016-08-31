@@ -1,4 +1,4 @@
-cta: {}
+name: bhaumik modi
 opengraph: {}
 collections:
   - index:
@@ -15,7 +15,7 @@ collections:
 purpose: []
 typography_spectrum: 0.394144
 color:
-  saturation: 0.5625
+  saturation: 0.1978723
   brandStrength: 0.2489362
   lightness: 0.625
   brandColors:
@@ -24,7 +24,7 @@ color:
     - '#1F1A17'
     - '#AEACAB'
     - '#D9251C'
-  rhythmicContrast: 0
+  rhythmicContrast: 0.6553192
 layout_spectrum: 0.404279
+cta: {}
 analytics: {}
-name: bhaumik modi
